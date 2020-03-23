@@ -1,5 +1,5 @@
 
-public class DayOneRequirement {
+public class DayOneRequirement2 {
 
 	public static void main(String[] args) {
 
